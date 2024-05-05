@@ -5,7 +5,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Mata Kuliah**|
 |----|---|-----|------|
-|Fadil afif muhaimin|312310632|TI.23.A6|Basis Data|
+|Fakhri afif muhaimin|312310632|TI.23.A6|Basis Data|
 
 # Soal Latihan Praktikum
 
