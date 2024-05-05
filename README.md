@@ -1,6 +1,4 @@
 # structureQuerylanguage
-
-# StructureQueryLanguage-Pr2-
 ## Tugas Praktikum 2 (Pertemuan ke 8) 
 <img src=https://qph.fs.quoracdn.net/main-qimg-648763cc041459725b62108f4fdf5b91 width="110px">
 
