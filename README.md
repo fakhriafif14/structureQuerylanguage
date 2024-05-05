@@ -5,7 +5,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Mata Kuliah**|
 |----|---|-----|------|
-|Fadil Aditya Adzima|312310617|TI.23.A6|Basis Data|
+|Fadil afif muhaimin|312310632|TI.23.A6|Basis Data|
 
 # Soal Latihan Praktikum
 
